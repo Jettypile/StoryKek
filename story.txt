@@ -10,3 +10,7 @@ However, Aksel likes a change in pace once in a while.
 He thinks writing in 3rd person is slightly more challenging.
 Aksel is just happy now that he can now git push his edits to the repository.
 
+Alec is very glad to see that he doesn't have to think for this one.
+Writing stories is tiring and he thought this was a CS class.
+There is a reason he didn't major in English, besides the fact that
+we enjoy being able to eat after graduation.
